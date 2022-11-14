@@ -1,17 +1,11 @@
 # WishList
 Descirbe what i want and evaluate what i've bought
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Table of Contents
-- [Wish](#wish)
-- [Own](#own)
+- [Wish](#Wish)
+- [Own](#Own)
+- [Maintainers](#Maintainers)
+- [Contributing](#Contributing)
 
 ## Wish
 - 随身摄影器（vlog）
@@ -20,3 +14,12 @@ Descirbe what i want and evaluate what i've bought
 - iPhone15 (typec) 
 
 ## Own
+
+
+## Maintainers
+
+[@hoverno1](https://github.com/hoverno1).
+
+## Contributing
+
+### Contributors
