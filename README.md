@@ -8,6 +8,7 @@ Descirbe what i want and evaluate what i've bought
 - [Contributing](#Contributing)
 
 ## Wish
+- steam deck
 - 随身摄影器（vlog）
 - Kindle2022 paperwhite5
 - AppleWatch Ultre (高山)
