@@ -8,9 +8,9 @@ Descirbe what i want and evaluate what i've bought
 - [Contributing](#Contributing)
 
 ## Wish
-- steam deck
+- Kindle2022 paperwhite5 (32g)
+- steam deck (疯狂降价中，稳定后再买)
 - 随身摄影器（vlog）
-- Kindle2022 paperwhite5
 - AppleWatch Ultre (高山)
 - iPhone15 (typec) 
 
